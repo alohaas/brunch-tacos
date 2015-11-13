@@ -1,0 +1,16 @@
+$bg: black;
+$tx: white;
+
+$tx-root: 16px;
+
+body {
+  font-family: Helvetica, sans-serif;
+  font-size: $tx-root;
+  background: $bg;
+  color: $tx;
+}
+
+h1 {
+  font-size: 2em;
+  margin: 0.5em 0 1em;
+}
